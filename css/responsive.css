@@ -1,0 +1,42 @@
+@media (min-width: 375px) {
+  .section .introduction-text h1 {
+    font-size: 2.5em;
+  }
+}
+
+@media (min-width: 768px) {
+  .section .logo-container {
+    width: 300px;
+    padding: 20px;
+  }
+
+  .section .logo-container img {
+    width: 200px;
+  }
+
+  .section .introduction-text h1 {
+    font-size: 3.5em;
+  }
+
+  .whoweare p {
+    font-size: 1.3em;
+  }
+
+  #business1 {
+    margin-right: 150px;
+  }
+
+  #business2 {
+    margin-left: 150px;
+  }
+
+  .contact {
+    padding: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section .introduction-text h1 {
+    font-size: 4.5em;
+  }
+}
